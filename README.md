@@ -5,7 +5,7 @@ _2021.08.23 ~ 2021.08.27_
 ---   
 
 1. 가위 바위 보를 구별하는 학습 가중치 파일은 tranning 폴더 안에 있는 가중치 파일을 사용!
-2. 데이터 셋은 [캐글](https://www.kaggle.com/uijeongjeon/ai-team) 여기에도 있고 darknet > data > customData에도 있다!   
+2. 데이터 셋은 [캐글](https://www.kaggle.com/uijeongjeon/ai-team) 여기에도 있다!! 원래 darknet > data > customData에도 있  
 
 ---
 #### :books: Log
