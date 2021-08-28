@@ -1,6 +1,6 @@
 # AI
 _2021.08.23 ~ 2021.08.27_   
-### :purple_heart: 공학교육센터에서 진행한 AI Engineer 양성교육 캠프 프로그램 관련 자료폴더들이 있습니다! :yellow_heart: 
+### :purple_heart: ubuntu = 공학교육센터에서 진행한 AI Engineer 양성교육 캠프 프로그램 관련 자료폴더들 :yellow_heart: 
 
 ---   
 
