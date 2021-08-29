@@ -14,7 +14,7 @@ _2021.08.23 ~ 2021.08.27_
  - 데이터 셋은 [캐글](https://www.kaggle.com/uijeongjeon/ai-team) 여기에 있다! 만약 학습시키고 싶다면 darknet > data > customData에 이미지 + 텍스트 파일 올리기 
  - GitHub에 올린 자료덜은 코랩에서 학습시킨 코드 / 파이썬으로 명도, 채도 조작 코드가 존재(.ipynb)
  - custom.data / custom.names / yolov4_custom.weights 파일은 우리가 수정해야 할 부분이라서 가지고 옴 
- - 아 그냥 드라이브 가서 보는게 빠를 듯 
+ - 아 그냥 드라이브 가서 보거나 내 블로그를 보는게 빠를 듯
 
 ---
 #### :books: Log
