@@ -4,10 +4,10 @@ _2021.08.23 ~ 2021.08.27_
 
 ---   
 1. Yolov4랑 darknet을 다운받고 싶다면 
-:point_right: [Yolov4랑 darknet 관련 깃허브]https://github.com/AlexeyAB/darknet 
+:point_right: [Yolov4랑 darknet 관련 깃허브](https://github.com/AlexeyAB/darknet)
 
 2. 전체 폴더를 포고 싶다면 (자료 양이 너무 방대해서 깃허브에 올릴 수가 없습니다ㅠㅠ)
-:point_right: [Advanced_AI]https://drive.google.com/drive/folders/1tZ6DPrkz4uMJ1CSGvMCk1k3JTFrIS346?usp=sharing
+:point_right: [Advanced_AI](https://drive.google.com/drive/folders/1tZ6DPrkz4uMJ1CSGvMCk1k3JTFrIS346?usp=sharing)
 
 3. 추가 설명 
  - 가위 바위 보를 구별하는 학습 가중치 파일은 tranning 폴더 안에 있는 가중치 파일을 사용!
