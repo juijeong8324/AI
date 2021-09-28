@@ -18,7 +18,7 @@ GDSC-seoultech 공부하면서 만든 자료들입니다! 코드 + 발표 자료
 |주차|날짜|주제|해당링크|  
 |---|---|---|---|      
 |0주차|[9/7]|ML 파트 소개|없지요^^|  
-|1주차|[9/14]|numpy, pandas 기초|Link|   
+|1주차|[9/14]|numpy, pandas 기초|![Link](https://github.com/juijeong8324/AI/tree/ml/2%EC%A3%BC%EC%B0%A8)|   
 |2주차|[9/21]|matplotlib, seaborn|Link|   
 |3주차|[9/28]|지도학습|Link|   
 |4주차|[10/5]|지도학습|Link|   
